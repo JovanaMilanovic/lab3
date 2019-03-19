@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="D:\ra175-2016\lab3\vezba3\SDK\SDK_workspace\vezba3_hw_platform\system.bit" key="vezba3_hw_platform-bitFile"/>
+	<item value="D:\ra175-2016\lab3\vezba3\SDK\SDK_workspace\vezba3_hw_platform\system_bd.bmm" key="vezba3_hw_platform-bmmFile"/>
+	<item value="D:\ra175-2016\lab3\vezba3\SDK\SDK_workspace\hello_world\Debug\hello_world.elf" key="vezba3_hw_platform-microblaze_0-initElf"/>
+</section>

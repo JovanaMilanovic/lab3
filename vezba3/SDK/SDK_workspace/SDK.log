@@ -1,0 +1,11 @@
+11:52:06.957 INFO  - Processing command line option -hwspec D:\ra175-2016\lab3\vezba3\SDK\SDK_Export\hw\vezba3.xml. 
+12:02:20.920 ERROR - FPGA Configuration failed.Failed to download the bit file
+
+    Failed to program device 3 with bitstream D:/ra175-2016/lab3/vezba3/SDK/SDK_workspace/vezba3_hw_platform/download.bit
+ 
+12:03:33.426 ERROR - FPGA Configuration failed.Failed to download the bit file
+
+    DONE bit didn't go HIGH after programming FPGA
+ 
+12:05:32.665 INFO  - FPGA configured successfully with bitstream "D:/ra175-2016/lab3/vezba3/SDK/SDK_workspace/vezba3_hw_platform/download.bit" 
+12:12:39.081 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  

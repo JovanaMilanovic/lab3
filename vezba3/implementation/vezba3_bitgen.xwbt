@@ -1,0 +1,7 @@
+INFILE=D:\ra175-2016\lab3\vezba3\implementation\vezba3.ncd
+OUTFILE=D:\ra175-2016\lab3\vezba3\implementation\vezba3.bit
+FAMILY=Spartan6
+PART=xc6slx45-2fgg676
+WORKINGDIR=D:\ra175-2016\lab3\vezba3\implementation
+LICENSE=ISE
+USER_INFO=209858334_178080923_210593072_769
